@@ -1,0 +1,24 @@
+.t-wrapper{
+	height: 32px; 
+	line-height: 32px;
+	width: 100%;
+	border: 1px solid #666;
+	padding: 0 10px;
+	font-size: 14px;
+}
+.t-tag{
+	margin-left: 5px;
+	font-size: 12px;
+	border: 1px solid #999;
+	background: #2199ef;
+	color: #fff;
+	padding: 2px 5px;
+}
+.t-close{
+	padding-left: 5px;
+	cursor: pointer;
+}
+.help-tag{
+	margin: 0;
+	padding-left: 20px;color: red;
+}
