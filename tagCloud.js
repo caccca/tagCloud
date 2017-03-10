@@ -134,7 +134,6 @@
 			}
 		}
 
-		var s = 'asd\"asdo\'';
 		init();
 		$('#'+opt.wrapper.id).on('keypress blur', run);
 	}
